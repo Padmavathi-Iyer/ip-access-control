@@ -1,0 +1,7 @@
+User,Resource,Decision
+A,C,Permit
+A,D,Permit
+F,J,Permit
+A,B,Permit
+K,L,Deny
+K,N,Deny

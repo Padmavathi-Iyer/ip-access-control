@@ -1,0 +1,5 @@
+o
+o,d
+c,d
+o,d,n
+o,d,s
